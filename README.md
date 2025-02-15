@@ -1,5 +1,6 @@
 # Property-price-forecasting
-main description of the project
+
+![Descrizione dell'immagine](Property_Price_Forecasting_Outline.png)
 
 ## TABLE OF CONTENTS
 
